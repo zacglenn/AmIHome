@@ -7,9 +7,9 @@ using Xamarin.Forms;
 
 namespace AmIHome
 {
-    public partial class MainPage : ContentPage
+    public partial class MainPageStarter : ContentPage
     {
-        public MainPage()
+        public MainPageStarter()
         {
             InitializeComponent();
         }
